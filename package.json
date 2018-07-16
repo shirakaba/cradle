@@ -21,7 +21,7 @@
   ],
   "main": "./lib/cradle",
   "dependencies": {
-    "follow": "0.11.x",
+    "follow": "https://github.com/shirakaba/follow/tarball/shirakaba-security-redos",
     "request": "2.x.x",
     "vargs": "0.1.0"
   },
